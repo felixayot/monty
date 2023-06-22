@@ -98,7 +98,7 @@ return (NULL);
 }
 
 /**
-* run_monty - Function prototype
+* monty_prog - Function prototype
 * Description: Primary function to execute a Monty bytecodes script.
 * @script_fd: File descriptor for an open Monty bytecodes script.
 * Return: EXIT_SUCCESS (Success), corresponding error code on failure.
