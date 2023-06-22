@@ -5,12 +5,12 @@
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. In this project, I learnt how to create an interpreter for Monty ByteCode files.
 
 ### Getting Started
-•	Ubuntu 20.04 LTS - Operating system required.
+- Ubuntu 20.04 LTS - Operating system required.
 
-•	GCC 9.4.0 - Compiler used
+- GCC 9.4.0 - Compiler used
 
 ### What’s Required
-•	Ubuntu Terminal or any other VM Sandbox
+- Ubuntu Terminal or any other VM Sandbox
 
 ### Installation and Usage
 Clone the repository into a new directory:
@@ -118,7 +118,7 @@ The parameter <int> must be an integer.
 	Lines can be empty and can contain any number of spaces before or after an opcode and its argument (only the first opcode and/or argument is taken into account).
 
 ## Examples
-You can try out your own examples by creating a Monty file with the file extension .m and running the Monty interpreter as per the usage stated above. See below for guidance.
+You can try out your own additional examples by creating a Monty file with the file extension .m and running the Monty interpreter as per the usage stated above. See below for guidance.
 
 ### Monty byte code files
 Files containing Monty byte codes usually have the .m extension. Most of the industry uses this standard but it is not required by the specification of the language. There is not more than one instruction per line. There can be any number of spaces before or after the opcode and its argument:
