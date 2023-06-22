@@ -136,7 +136,7 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 	3
 ```
 # Authors
-•	Felix Ayot - felixayot@gmail.com
+- ***Felix Ayot*** - felixayot@gmail.com
 
 # Acknowledgments
-•	ALX SE program provided the resources and project guidance.
+- ALX SE program provided the resources and project guidance.
