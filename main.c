@@ -1,5 +1,6 @@
 #include "monty.h"
 
+void pass(void);
 char **opcode_tokens = NULL;
 /**
  * main - Entry point
