@@ -139,4 +139,4 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 - ***Felix Ayot*** - felixayot@gmail.com
 
 # Acknowledgments
-- ALX SE program provided the resources and project guidance.
+- ALX SE program provided the resources and project guidance. More information on this amazing program can be found through this [link](https://www.alxafrica.com/).
