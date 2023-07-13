@@ -9,7 +9,7 @@ The language's name is a reference to the slang term brainfuck, which refers to 
 ### Project Details
 Using the Basic eight commands of Brainf*ck, I was able to tackle string output as in file `1000-school.bf`, addition and multiplication of user inputs as in `1001-add.bf`, `1002-mul.bf` and `1003-mul.bf`. Just what the project tasks required, but more later.
 
-### Challenges
+### Issues
 I had some challenges in outputting the product of user input in a new line feed, so, here goes the **disclaimer**: file `1003-mul.bf` does not really work. Oops!
 I am still working on it though, we'll get back to it soon.
 
